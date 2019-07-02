@@ -1,0 +1,6 @@
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Singleton/bin/Debug/Singleton.exe
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Singleton/bin/Debug/Singleton.pdb
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Singleton/obj/x86/Debug/Singleton.csprojAssemblyReference.cache
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Singleton/obj/x86/Debug/Singleton.csproj.CoreCompileInputs.cache
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Singleton/obj/x86/Debug/Singleton.exe
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Singleton/obj/x86/Debug/Singleton.pdb

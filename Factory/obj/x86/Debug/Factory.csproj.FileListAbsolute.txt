@@ -1,0 +1,5 @@
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Factory/bin/Debug/Factory.exe
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Factory/bin/Debug/Factory.pdb
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Factory/obj/x86/Debug/Factory.csproj.CoreCompileInputs.cache
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Factory/obj/x86/Debug/Factory.exe
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Factory/obj/x86/Debug/Factory.pdb

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A964E6A7-E5BE-4235-9B30-87901DC7637E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/SingleInstance.cs">
+    <Files>
+      <File FileName="Singleton/Program.cs" Line="1" Column="1" />
+      <File FileName="Singleton/SingleInstance.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesingPatterns" expanded="True">
+            <Node name="Factory" expanded="True" />
+            <Node name="Singleton" expanded="True">
+              <Node name="SingleInstance.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
