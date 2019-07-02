@@ -1,18 +1,17 @@
-﻿<Properties StartupConfiguration="{54C0EBE8-17E7-4A7C-8F5D-CC811E77D9B5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory/ExecutaAbstractFactory.cs">
+﻿<Properties StartupConfiguration="{76AF864A-B2E5-4D3D-B8C5-0BC0D0E277F2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Builder/Fabricante.cs">
     <Files>
-      <File FileName="AbstractFactory/Program.cs" Line="15" Column="1" />
-      <File FileName="AbstractFactory/CarroFactory.cs" Line="6" Column="26" />
-      <File FileName="AbstractFactory/CarroLuxoFactory.cs" Line="6" Column="27" />
-      <File FileName="AbstractFactory/CarrroPopularFactory.cs" Line="13" Column="27" />
-      <File FileName="AbstractFactory/ExecutaAbstractFactory.cs" Line="13" Column="35" />
+      <File FileName="Builder/Program.cs" Line="11" Column="1" />
+      <File FileName="Builder/AndroidBuilder.cs" Line="4" Column="38" />
+      <File FileName="Builder/Fabricante.cs" Line="6" Column="38" />
+      <File FileName="Builder/ICelular.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesingPatterns" expanded="True">
-            <Node name="AbstractFactory" expanded="True">
-              <Node name="ExecutaAbstractFactory.cs" selected="True" />
+            <Node name="Builder" expanded="True">
+              <Node name="Fabricante.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -23,8 +22,12 @@
   <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Builder/Program.cs" relfile="Builder/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Builder/Program.cs" relfile="Builder/Program.cs" line="15" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

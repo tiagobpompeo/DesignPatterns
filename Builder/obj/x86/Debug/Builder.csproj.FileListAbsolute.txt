@@ -1,0 +1,5 @@
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Builder/bin/Debug/Builder.exe
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Builder/bin/Debug/Builder.pdb
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Builder/obj/x86/Debug/Builder.csproj.CoreCompileInputs.cache
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Builder/obj/x86/Debug/Builder.exe
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/Builder/obj/x86/Debug/Builder.pdb
