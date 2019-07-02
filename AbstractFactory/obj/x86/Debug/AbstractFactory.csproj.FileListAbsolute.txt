@@ -1,0 +1,5 @@
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/AbstractFactory/bin/Debug/AbstractFactory.exe
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/AbstractFactory/bin/Debug/AbstractFactory.pdb
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/AbstractFactory/obj/x86/Debug/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/AbstractFactory/obj/x86/Debug/AbstractFactory.exe
+/Users/uniomteam/Documents/PROJETOS/C#/DesingPatterns/AbstractFactory/obj/x86/Debug/AbstractFactory.pdb

@@ -1,22 +1,25 @@
-﻿<Properties StartupConfiguration="{A964E6A7-E5BE-4235-9B30-87901DC7637E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/SingleInstance.cs">
+﻿<Properties StartupConfiguration="{54C0EBE8-17E7-4A7C-8F5D-CC811E77D9B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory/ExecutaAbstractFactory.cs">
     <Files>
-      <File FileName="Singleton/Program.cs" Line="1" Column="1" />
-      <File FileName="Singleton/SingleInstance.cs" Line="19" Column="1" />
+      <File FileName="AbstractFactory/Program.cs" Line="15" Column="1" />
+      <File FileName="AbstractFactory/CarroFactory.cs" Line="6" Column="26" />
+      <File FileName="AbstractFactory/CarroLuxoFactory.cs" Line="6" Column="27" />
+      <File FileName="AbstractFactory/CarrroPopularFactory.cs" Line="13" Column="27" />
+      <File FileName="AbstractFactory/ExecutaAbstractFactory.cs" Line="13" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesingPatterns" expanded="True">
-            <Node name="Factory" expanded="True" />
-            <Node name="Singleton" expanded="True">
-              <Node name="SingleInstance.cs" selected="True" />
+            <Node name="AbstractFactory" expanded="True">
+              <Node name="ExecutaAbstractFactory.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

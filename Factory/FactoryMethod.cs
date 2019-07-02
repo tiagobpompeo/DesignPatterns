@@ -11,10 +11,14 @@ namespace Factory
         {
             switch (personagem)
             {
-                case "LiuKang": return new LiuKang();
-                case "Scorpion": return new Scorpion();
-                case "Subzero": return new Subzero();
-                default: return null;
+                case "LiuKang":
+                    return new LiuKang();
+                case "Scorpion":
+                    return new Scorpion();
+                case "Subzero":
+                    return new Subzero();
+                default:
+                    return null;
             }
         }
     }

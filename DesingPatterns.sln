@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{9C774478-8548-421A-BF29-D97EBC6F98C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{54C0EBE8-17E7-4A7C-8F5D-CC811E77D9B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +21,9 @@ Global
 		{9C774478-8548-421A-BF29-D97EBC6F98C6}.Debug|x86.Build.0 = Debug|x86
 		{9C774478-8548-421A-BF29-D97EBC6F98C6}.Release|x86.ActiveCfg = Release|x86
 		{9C774478-8548-421A-BF29-D97EBC6F98C6}.Release|x86.Build.0 = Release|x86
+		{54C0EBE8-17E7-4A7C-8F5D-CC811E77D9B5}.Debug|x86.ActiveCfg = Debug|x86
+		{54C0EBE8-17E7-4A7C-8F5D-CC811E77D9B5}.Debug|x86.Build.0 = Debug|x86
+		{54C0EBE8-17E7-4A7C-8F5D-CC811E77D9B5}.Release|x86.ActiveCfg = Release|x86
+		{54C0EBE8-17E7-4A7C-8F5D-CC811E77D9B5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
